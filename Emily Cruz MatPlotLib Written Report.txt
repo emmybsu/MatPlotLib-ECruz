@@ -1,0 +1,8 @@
+MatPlotLib Written Analysis
+Emily Cruz
+
+The three observations or insights about the data are:
+
+1. There is only one outlier for the tumor volume across the four drugs.  That outlier is in Infubinol with a volume of 36.321346 mm3.
+2. Capomulin causes a decrease with the tumor volume over a period of time.
+3. As the weight increases in a mouse that is taking Capomulin, so does their tumor size.
